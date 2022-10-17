@@ -27,7 +27,7 @@ To get the project ready to run on your machine, follow the steps below:
 * Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 ```sh
-git clone https://github.com/Manual-To-Automation-Sky-Italia/Lesson-2-Exercise.git.
+git clone https://github.com/Manual-To-Automation-Sky/Java-Lesson-2-Exercise.git.
 ```
 * Move into the directory that you just cloned by typing
 ```sh
